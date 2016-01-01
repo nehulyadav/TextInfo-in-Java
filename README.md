@@ -1,14 +1,7 @@
-# Word-Count-in-Java
+# TextInfo-in-Java
 
-This project is created by Nehul Yadav for educational purpose & Java skills enhancement. If you want to collaborate with me on new projects, contact me on yadavn@miamioh.edu
+The transition diagram implements three enum states: START, WORD and DELIMITER.
+The states refer to the word character, delimeter and non word character respectively in the program.
 
-HOW TO OPEN THE PROJECT IN ECLIPSE:
+This project is created for educational purpose & Java skills enhancement. If you want to collaborate with me on new projects, contact me on yadavn@miamioh.edu
 
-Open WordCount.java
-Go to Run button on top bar, and click on the arrow next to the green arrow.
-Pass the argument as the file you want the program to read and count the number of words
-Open TextInfo.java
-The program runs.
-
-
-The code is robust. Prjoect made with Mr. Greogry Gelfond, Professor CSE 271.
